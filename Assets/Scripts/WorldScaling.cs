@@ -15,6 +15,10 @@ public class WorldScaling : MonoBehaviour
     public float scaledRotation;
     public bool scalingEnabled;
     Vector3 HMDtoOrigin;
+    public float[] angleBuffer;
+    private int bufferIndex;
+    private int bufferSize;
+    private const float diff = 0.05f;
 
 
     public Axis scaleAxis;
@@ -22,7 +26,8 @@ public class WorldScaling : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        bufferIndex = 0;
+        bufferSize = angleBuffer.Length;
     }
 
     void LateUpdate()
@@ -45,24 +50,12 @@ public class WorldScaling : MonoBehaviour
         if (rotationMultiplier < 0.11f && rotationMultiplier > 0.09f) rotationMultiplier = 0.1f;
         if (rotationMultiplier > -0.11f && rotationMultiplier < -0.09f) rotationMultiplier = -0.1f;
 
+        yRotation = GetTrackedHMDAngle(scaleAxis);
+        UpdateAngleBuffer();
+        CrossedZero();
+
         if (scalingEnabled)
         {
-            /* //old implementation that only works with yaw
-            Vector3 originToHMD = new Vector3(HMD.position.x, 0, HMD.position.z);
-            yRotation = HMD.localEulerAngles.y;
-            if (yRotation > 180f)
-            {
-                yRotation -= 360f;
-            }
-            Quaternion rot = Quaternion.AngleAxis(yRotation * rotationMultiplier, Vector3.up);
-            HMDtoOrigin = rot * originToHMD;
-            scaledRotation = yRotation * rotationMultiplier;
-            transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, scaledRotation, transform.localEulerAngles.z);
-            Debug.DrawLine(transform.position, transform.position + originToHMD, Color.green);
-            Debug.DrawLine(HMD.position, HMD.position - HMDtoOrigin, Color.red);
-            transform.position = new Vector3(HMD.position.x - HMDtoOrigin.x, 0, HMD.position.z - HMDtoOrigin.z); */
-
-            //new cool implementation
             float foo = GetTrackedHMDAngle(scaleAxis);
             ScaleRotation(foo, rotationMultiplier, scaleAxis);
         }
@@ -115,5 +108,25 @@ public class WorldScaling : MonoBehaviour
         scaledTranslation[(int)axis] = 0;
         //scaledTranslation.y -= HMD.position.y;
         return scaledTranslation;
+    }
+
+    void UpdateAngleBuffer()
+    {
+        angleBuffer[bufferIndex % bufferSize] = yRotation;
+        bufferIndex++;
+    }
+
+
+    //Some unintended behaviour when player looks to middle than quickly changes direction, maybe not an issue
+    void CrossedZero()
+    {
+        if (angleBuffer[bufferSize - 1] - angleBuffer[0] > 300f)
+        {
+            Debug.Log("Left");
+        }
+        else if (angleBuffer[bufferSize - 1] - angleBuffer[0] < -300f && angleBuffer[bufferSize - 1] != 0f)
+        {
+            Debug.Log("Right");
+        }
     }
 }
