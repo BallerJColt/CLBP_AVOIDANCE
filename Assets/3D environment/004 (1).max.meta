@@ -1,0 +1,1974 @@
+fileFormatVersion: 2
+guid: 43e128452ea1461418aa3d1b0231e350
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 04 Design books
+    100004: 04 Design books 01
+    100006: 04 Design books 02
+    100008: 04 Design books 026
+    100010: 04 Design books 03
+    100012: 04 Design books 037
+    100014: 04 Design books 038
+    100016: 04 Design books 039
+    100018: 04 Design books 04
+    100020: 04 Design books 040
+    100022: 04 Design books 041
+    100024: 04 Design books 042
+    100026: 04 Design books 043
+    100028: 04 Design books 044
+    100030: 04 Design books 045
+    100032: 04 Design books 046
+    100034: 04 Design books 047
+    100036: 04 Design books 048
+    100038: 04 Design books 049
+    100040: 04 Design books 05
+    100042: 04 Design books 050
+    100044: 04 Design books 06
+    100046: 04 Design books 07
+    100048: 04 Design books 08
+    100050: 04 Design books 09
+    100052: 04 Design books 10
+    100054: 04 Design books 11
+    100056: 04 Design books 12
+    100058: 04 Design books 13
+    100060: 04 Design books 14
+    100062: 04 Design books001
+    100064: 123123
+    100066: 20 Ikea Salong vase S001
+    100068: 21 Ceramic vase 1
+    100070: 21 Ceramic vase 2
+    100072: 21 Ceramic vase 3
+    100074: 21 Ceramic vase 4
+    100076: 21 Ceramic vase 5
+    100078: 21 Ceramic vase 6
+    100080: 23 Open book 01 Interior
+    100082: 31 Pillar metal candleholder 1
+    100084: 31 Pillar metal candleholder 2
+    100086: 31 Pillar metal candleholder 3
+    100088: 31 Pillar metal candleholder 4
+    100090: 31 Pillar metal candleholder 5
+    100092: 3d66modelV13-19-029
+    100094: 3d66modelV13-19-28
+    100096: AI29_05_AM107_005_glass002
+    100098: AI29_05_AM107_005_glass003
+    100100: AI29_05_AM107_005_metal002
+    100102: AI29_05_AM107_005_metal003
+    100104: AI29_05_Cylinder035
+    100106: AI29_05_Cylinder036
+    100108: AI29_05_Cylinder037
+    100110: AI29_05_Cylinder038
+    100112: AI29_05_Sphere007
+    100114: AI29_05_Sphere008
+    100116: AI29_05_VRayLight025
+    100118: AI29_05_VRayLight026
+    100120: AM108_set_10_01
+    100122: AM108_set_10_02
+    100124: AM108_set_10_03
+    100126: AM108_set_10_04
+    100128: AM108_set_10_05
+    100130: AM108_set_10_06
+    100132: AM108_set_10_07
+    100134: AM108_set_10_08
+    100136: AM108_set_10_09
+    100138: AM108_set_10_10
+    100140: AM108_set_10_11
+    100142: AM108_set_10_12
+    100144: AM108_set_10_13
+    100146: AM108_set_10_14
+    100148: Arch41_043_obj_1
+    100150: Arch41_043_obj_3
+    100152: Arch41_043_obj_4
+    100154: Arch41_043_obj_5
+    100156: Arch41_043_obj_6
+    100158: Arch41_043_obj_7
+    100160: Arch41_049_obj_002
+    100162: Arch41_049_obj_004
+    100164: Arch41_049_obj_005
+    100166: Arch41_049_obj_1
+    100168: Arch41_049_obj_3
+    100170: Arch41_058_obj_1
+    100172: Arch41_058_obj_3
+    100174: Arch41_058_obj_4
+    100176: Arch41_060_obj_005
+    100178: Arch41_060_obj_006
+    100180: Arch41_060_obj_007
+    100182: Arch41_060_obj_1
+    100184: Arch41_060_obj_3
+    100186: Arch41_060_obj_4
+    100188: Arch60_018_obj00
+    100190: Arch60_018_obj003
+    100192: Arch60_018_obj004
+    100194: Arch60_018_obj005
+    100196: Arch60_018_obj006
+    100198: Arch60_018_obj007
+    100200: Arch60_018_obj008
+    100202: Arch60_018_obj01
+    100204: Arch60_018_obj02
+    100206: Arch_Interiors_18_001_001_740
+    100208: Arch_Interiors_18_001_001_741
+    100210: Arch_Interiors_18_001_001_742
+    100212: Arch_Interiors_18_001_001_743
+    100214: Archmodels_45_009_002
+    100216: Archmodels_45_009_003
+    100218: Archmodels_45_009_1
+    100220: Box01-FACE_001
+    100222: Box02-FAC0#1_001
+    100224: Box02-FACE#1_001
+    100226: Box03-FAC0#1_001
+    100228: Box03-FACE#1_001
+    100230: Box04-FAC0#1_001
+    100232: Box04-FACE#1_001
+    100234: Box07-FACE#1_001
+    100236: Box08-FACE#1_001
+    100238: Box09-FAC0#1_001
+    100240: Box09-FACE#1_001
+    100242: Box11-FACE_001
+    100244: Box12-FACE#1_001
+    100246: Box13-FACE#1_001
+    100248: Box14-FACE#1_001
+    100250: Box15-FACE#1_001
+    100252: carpet14-002
+    100254: chair
+    100256: chair001
+    100258: Component#12_001
+    100260: Component#12_003
+    100262: Component#12_005
+    100264: Component#12_007
+    100266: Component#12_009
+    100268: Component#12_011
+    100270: Component#12_013
+    100272: Component#12_015
+    100274: Component#12_017
+    100276: Component#12_019
+    100278: Component#12_021
+    100280: Component#12_023
+    100282: Component#12_025
+    100284: Component#13_001
+    100286: Component#1_002
+    100288: Component#21_001
+    100290: Component#23_001
+    100292: Component#23_002
+    100294: Component#23_003
+    100296: Component#25_001
+    100298: Component#37_001
+    100300: Component#39_001
+    100302: Component#44_001
+    100304: Component#49_001
+    100306: Component#54_001
+    100308: Component#54_002
+    100310: Component#54_003
+    100312: Component#54_004
+    100314: Component#54_005
+    100316: Component#54_006
+    100318: Component#54_007
+    100320: Component#54_008
+    100322: Component#54_009
+    100324: Component#54_010
+    100326: Component#54_011
+    100328: Component#54_012
+    100330: Component#54_013
+    100332: Component#54_014
+    100334: Component#79_001
+    100336: Component#79_002
+    100338: Component#79_003
+    100340: Component#79_004
+    100342: Component#79_005
+    100344: Component#79_006
+    100346: Component#79_007
+    100348: Component#79_008
+    100350: Component#79_009
+    100352: Component#79_010
+    100354: Component#7_001
+    100356: Component#80_001
+    100358: Component#80_002
+    100360: Component#80_003
+    100362: Component#80_004
+    100364: Component#80_005
+    100366: Component#80_006
+    100368: Component#80_007
+    100370: Component#80_008
+    100372: Component#80_009
+    100374: Component#80_010
+    100376: Component#81_001
+    100378: Component#81_002
+    100380: Component#81_003
+    100382: Component#81_004
+    100384: Component#81_005
+    100386: Component#81_006
+    100388: Component#81_007
+    100390: Component#81_008
+    100392: Component#81_009
+    100394: Component#81_010
+    100396: Component#81_011
+    100398: Component#82_001
+    100400: Component#82_002
+    100402: Component#82_003
+    100404: Component#82_004
+    100406: Component#82_005
+    100408: Component#82_006
+    100410: Component#82_007
+    100412: Component#82_008
+    100414: Component#82_009
+    100416: Component#82_010
+    100418: Component#82_011
+    100420: Component#83_001
+    100422: Component#83_002
+    100424: Component#83_003
+    100426: Component#83_004
+    100428: Component#83_005
+    100430: Component#83_006
+    100432: Component#83_007
+    100434: Component#83_008
+    100436: Component#83_009
+    100438: Component#83_010
+    100440: Component#8_001
+    100442: Cylinder03#1_001
+    100444: Cylinder05#1_001
+    100446: Cylinder10#1_001
+    100448: Cylinder11#1_001
+    100450: Cylinder12#1_001
+    100452: Cylinder13#1_001
+    100454: Cylinder15#1_001
+    100456: Cylinder17#1_001
+    100458: Cylinder19#1_001
+    100460: Cylinder21#1_001
+    100462: Cylinder420
+    100464: Cylinder428
+    100466: Cylinder429
+    100468: Cylinder430
+    100470: Cylinder431
+    100472: Cylinder432
+    100474: Cylinder433
+    100476: Cylinder434
+    100478: dihtung-F0#1_001
+    100480: dihtung-FA#1_001
+    100482: dihtung02-#1_001
+    100484: glass-FAC0#1_001
+    100486: glass-FACE#1_001
+    100488: glass02-FA#1_001
+    100490: Group002
+    100492: Group003
+    100494: Group004
+    100496: Group005
+    100498: Group006
+    100500: Group007
+    100502: Group008
+    100504: Group009
+    100506: Group010
+    100508: Group011
+    100510: Group1871013462
+    100512: Group1871013465
+    100514: Group1871013578
+    100516: Group1871018924
+    100518: Group1871018925
+    100520: Group1871018926
+    100522: Group1871018928
+    100524: Group1871018929
+    100526: Group1871018930
+    100528: Group1871018931
+    100530: Group1871018933
+    100532: Group1871018934
+    100534: Group1871018935
+    100536: Group1871018936
+    100538: Group1871018937
+    100540: Group1871018941
+    100542: Group1871018942
+    100544: Group1871018946
+    100546: Group1871018947
+    100548: Group1871018948
+    100550: Group1871018949
+    100552: Group1871018950
+    100554: Group1871018951
+    100556: Group1871018952
+    100558: Group1871018953
+    100560: Group1871018954
+    100562: Group1871018955
+    100564: Group1871018956
+    100566: Group1871018957
+    100568: Group1871018958
+    100570: Group1871018959
+    100572: Group1871018960
+    100574: Group1871018961
+    100576: Group1871018962
+    100578: Group1871018963
+    100580: Group1871018964
+    100582: Group1871018965
+    100584: Group1871018966
+    100586: Group518
+    100588: Group519
+    100590: Group520
+    100592: Group521
+    100594: Group522
+    100596: Group_001
+    100598: Group_002
+    100600: Group_005
+    100602: Group_006
+    100604: Group_008
+    100606: Group_010
+    100608: Group_011
+    100610: Group_013
+    100612: Group_014
+    100614: Group_015
+    100616: Group_016
+    100618: Group_017
+    100620: Group_018
+    100622: Group_019
+    100624: Group_020
+    100626: Group_021
+    100628: Group_022
+    100630: Group_023
+    100632: Group_024
+    100634: Group_025
+    100636: Group_026
+    100638: Group_027
+    100640: Group_028
+    100642: Group_029
+    100644: Group_030
+    100646: Group_031
+    100648: Group_032
+    100650: Group_033
+    100652: Group_034
+    100654: Group_035
+    100656: Group_036
+    100658: Group_037
+    100660: Group_038
+    100662: Group_039
+    100664: Group_040
+    100666: Group_041
+    100668: Group_042
+    100670: Group_043
+    100672: Group_044
+    100674: Group_045
+    100676: Group_046
+    100678: Group_1768
+    100680: Group_1769
+    100682: Group_1770
+    100684: Group_1771
+    100686: Group_1772
+    100688: Group_490
+    100690: Group_491
+    100692: Group_492
+    100694: Group_493
+    100696: Group_495
+    100698: Group_600
+    100700: Group_601
+    100702: Group_602
+    100704: Group_603
+    100706: halogen131
+    100708: halogen139
+    100710: halogen140
+    100712: halogen141
+    100714: halogen142
+    100716: halogen143
+    100718: halogen144
+    100720: halogen145
+    100722: halogen_111
+    100724: halogen_119
+    100726: halogen_120
+    100728: halogen_121
+    100730: halogen_122
+    100732: halogen_123
+    100734: halogen_124
+    100736: halogen_125
+    100738: Layer0_001
+    100740: legs_
+    100742: legs_001
+    100744: obj_01
+    100746: obj_02
+    100748: obj_03
+    100750: obj_04
+    100752: obj_05
+    100754: obj_06
+    100756: objObject03
+    100758: objObject08
+    100760: objObject12
+    100762: objSphere700
+    100764: Seat Pad_001
+    100766: Seat Pad_002
+    100768: sit
+    100770: sit soft
+    100772: sit soft001
+    100774: sit001
+    100776: torch light012
+    100778: Torus118
+    100780: Torus130
+    100782: Torus131
+    100784: Torus132
+    100786: Torus133
+    100788: Torus134
+    100790: Torus135
+    100792: Torus136
+    100794: vaseDS3_01
+    100796: vm_v4_038_2
+    100798: vm_v4_038_3
+    100800: vm_v4_038_5
+    100802: vm_v4_038_6
+    100804: VRayPhysicalCamera002
+    100806: VRayPhysicalCamera002.Target
+    100808: VRayPhysicalCamera003
+    100810: VRayPhysicalCamera003.Target
+    100812: VRayPhysicalCamera01
+    100814: VRayPhysicalCamera01.Target
+    100816: VRayProxy_Object007
+    100818: VRayProxy_Object06
+    100820: VRaySun01
+    100822: VRaySun01.Target
+    100824: www.st-cg.com
+    400000: //RootNode
+    400002: 04 Design books
+    400004: 04 Design books 01
+    400006: 04 Design books 02
+    400008: 04 Design books 026
+    400010: 04 Design books 03
+    400012: 04 Design books 037
+    400014: 04 Design books 038
+    400016: 04 Design books 039
+    400018: 04 Design books 04
+    400020: 04 Design books 040
+    400022: 04 Design books 041
+    400024: 04 Design books 042
+    400026: 04 Design books 043
+    400028: 04 Design books 044
+    400030: 04 Design books 045
+    400032: 04 Design books 046
+    400034: 04 Design books 047
+    400036: 04 Design books 048
+    400038: 04 Design books 049
+    400040: 04 Design books 05
+    400042: 04 Design books 050
+    400044: 04 Design books 06
+    400046: 04 Design books 07
+    400048: 04 Design books 08
+    400050: 04 Design books 09
+    400052: 04 Design books 10
+    400054: 04 Design books 11
+    400056: 04 Design books 12
+    400058: 04 Design books 13
+    400060: 04 Design books 14
+    400062: 04 Design books001
+    400064: 123123
+    400066: 20 Ikea Salong vase S001
+    400068: 21 Ceramic vase 1
+    400070: 21 Ceramic vase 2
+    400072: 21 Ceramic vase 3
+    400074: 21 Ceramic vase 4
+    400076: 21 Ceramic vase 5
+    400078: 21 Ceramic vase 6
+    400080: 23 Open book 01 Interior
+    400082: 31 Pillar metal candleholder 1
+    400084: 31 Pillar metal candleholder 2
+    400086: 31 Pillar metal candleholder 3
+    400088: 31 Pillar metal candleholder 4
+    400090: 31 Pillar metal candleholder 5
+    400092: 3d66modelV13-19-029
+    400094: 3d66modelV13-19-28
+    400096: AI29_05_AM107_005_glass002
+    400098: AI29_05_AM107_005_glass003
+    400100: AI29_05_AM107_005_metal002
+    400102: AI29_05_AM107_005_metal003
+    400104: AI29_05_Cylinder035
+    400106: AI29_05_Cylinder036
+    400108: AI29_05_Cylinder037
+    400110: AI29_05_Cylinder038
+    400112: AI29_05_Sphere007
+    400114: AI29_05_Sphere008
+    400116: AI29_05_VRayLight025
+    400118: AI29_05_VRayLight026
+    400120: AM108_set_10_01
+    400122: AM108_set_10_02
+    400124: AM108_set_10_03
+    400126: AM108_set_10_04
+    400128: AM108_set_10_05
+    400130: AM108_set_10_06
+    400132: AM108_set_10_07
+    400134: AM108_set_10_08
+    400136: AM108_set_10_09
+    400138: AM108_set_10_10
+    400140: AM108_set_10_11
+    400142: AM108_set_10_12
+    400144: AM108_set_10_13
+    400146: AM108_set_10_14
+    400148: Arch41_043_obj_1
+    400150: Arch41_043_obj_3
+    400152: Arch41_043_obj_4
+    400154: Arch41_043_obj_5
+    400156: Arch41_043_obj_6
+    400158: Arch41_043_obj_7
+    400160: Arch41_049_obj_002
+    400162: Arch41_049_obj_004
+    400164: Arch41_049_obj_005
+    400166: Arch41_049_obj_1
+    400168: Arch41_049_obj_3
+    400170: Arch41_058_obj_1
+    400172: Arch41_058_obj_3
+    400174: Arch41_058_obj_4
+    400176: Arch41_060_obj_005
+    400178: Arch41_060_obj_006
+    400180: Arch41_060_obj_007
+    400182: Arch41_060_obj_1
+    400184: Arch41_060_obj_3
+    400186: Arch41_060_obj_4
+    400188: Arch60_018_obj00
+    400190: Arch60_018_obj003
+    400192: Arch60_018_obj004
+    400194: Arch60_018_obj005
+    400196: Arch60_018_obj006
+    400198: Arch60_018_obj007
+    400200: Arch60_018_obj008
+    400202: Arch60_018_obj01
+    400204: Arch60_018_obj02
+    400206: Arch_Interiors_18_001_001_740
+    400208: Arch_Interiors_18_001_001_741
+    400210: Arch_Interiors_18_001_001_742
+    400212: Arch_Interiors_18_001_001_743
+    400214: Archmodels_45_009_002
+    400216: Archmodels_45_009_003
+    400218: Archmodels_45_009_1
+    400220: Box01-FACE_001
+    400222: Box02-FAC0#1_001
+    400224: Box02-FACE#1_001
+    400226: Box03-FAC0#1_001
+    400228: Box03-FACE#1_001
+    400230: Box04-FAC0#1_001
+    400232: Box04-FACE#1_001
+    400234: Box07-FACE#1_001
+    400236: Box08-FACE#1_001
+    400238: Box09-FAC0#1_001
+    400240: Box09-FACE#1_001
+    400242: Box11-FACE_001
+    400244: Box12-FACE#1_001
+    400246: Box13-FACE#1_001
+    400248: Box14-FACE#1_001
+    400250: Box15-FACE#1_001
+    400252: carpet14-002
+    400254: chair
+    400256: chair001
+    400258: Component#12_001
+    400260: Component#12_003
+    400262: Component#12_005
+    400264: Component#12_007
+    400266: Component#12_009
+    400268: Component#12_011
+    400270: Component#12_013
+    400272: Component#12_015
+    400274: Component#12_017
+    400276: Component#12_019
+    400278: Component#12_021
+    400280: Component#12_023
+    400282: Component#12_025
+    400284: Component#13_001
+    400286: Component#1_002
+    400288: Component#21_001
+    400290: Component#23_001
+    400292: Component#23_002
+    400294: Component#23_003
+    400296: Component#25_001
+    400298: Component#37_001
+    400300: Component#39_001
+    400302: Component#44_001
+    400304: Component#49_001
+    400306: Component#54_001
+    400308: Component#54_002
+    400310: Component#54_003
+    400312: Component#54_004
+    400314: Component#54_005
+    400316: Component#54_006
+    400318: Component#54_007
+    400320: Component#54_008
+    400322: Component#54_009
+    400324: Component#54_010
+    400326: Component#54_011
+    400328: Component#54_012
+    400330: Component#54_013
+    400332: Component#54_014
+    400334: Component#79_001
+    400336: Component#79_002
+    400338: Component#79_003
+    400340: Component#79_004
+    400342: Component#79_005
+    400344: Component#79_006
+    400346: Component#79_007
+    400348: Component#79_008
+    400350: Component#79_009
+    400352: Component#79_010
+    400354: Component#7_001
+    400356: Component#80_001
+    400358: Component#80_002
+    400360: Component#80_003
+    400362: Component#80_004
+    400364: Component#80_005
+    400366: Component#80_006
+    400368: Component#80_007
+    400370: Component#80_008
+    400372: Component#80_009
+    400374: Component#80_010
+    400376: Component#81_001
+    400378: Component#81_002
+    400380: Component#81_003
+    400382: Component#81_004
+    400384: Component#81_005
+    400386: Component#81_006
+    400388: Component#81_007
+    400390: Component#81_008
+    400392: Component#81_009
+    400394: Component#81_010
+    400396: Component#81_011
+    400398: Component#82_001
+    400400: Component#82_002
+    400402: Component#82_003
+    400404: Component#82_004
+    400406: Component#82_005
+    400408: Component#82_006
+    400410: Component#82_007
+    400412: Component#82_008
+    400414: Component#82_009
+    400416: Component#82_010
+    400418: Component#82_011
+    400420: Component#83_001
+    400422: Component#83_002
+    400424: Component#83_003
+    400426: Component#83_004
+    400428: Component#83_005
+    400430: Component#83_006
+    400432: Component#83_007
+    400434: Component#83_008
+    400436: Component#83_009
+    400438: Component#83_010
+    400440: Component#8_001
+    400442: Cylinder03#1_001
+    400444: Cylinder05#1_001
+    400446: Cylinder10#1_001
+    400448: Cylinder11#1_001
+    400450: Cylinder12#1_001
+    400452: Cylinder13#1_001
+    400454: Cylinder15#1_001
+    400456: Cylinder17#1_001
+    400458: Cylinder19#1_001
+    400460: Cylinder21#1_001
+    400462: Cylinder420
+    400464: Cylinder428
+    400466: Cylinder429
+    400468: Cylinder430
+    400470: Cylinder431
+    400472: Cylinder432
+    400474: Cylinder433
+    400476: Cylinder434
+    400478: dihtung-F0#1_001
+    400480: dihtung-FA#1_001
+    400482: dihtung02-#1_001
+    400484: glass-FAC0#1_001
+    400486: glass-FACE#1_001
+    400488: glass02-FA#1_001
+    400490: Group002
+    400492: Group003
+    400494: Group004
+    400496: Group005
+    400498: Group006
+    400500: Group007
+    400502: Group008
+    400504: Group009
+    400506: Group010
+    400508: Group011
+    400510: Group1871013462
+    400512: Group1871013465
+    400514: Group1871013578
+    400516: Group1871018924
+    400518: Group1871018925
+    400520: Group1871018926
+    400522: Group1871018928
+    400524: Group1871018929
+    400526: Group1871018930
+    400528: Group1871018931
+    400530: Group1871018933
+    400532: Group1871018934
+    400534: Group1871018935
+    400536: Group1871018936
+    400538: Group1871018937
+    400540: Group1871018941
+    400542: Group1871018942
+    400544: Group1871018946
+    400546: Group1871018947
+    400548: Group1871018948
+    400550: Group1871018949
+    400552: Group1871018950
+    400554: Group1871018951
+    400556: Group1871018952
+    400558: Group1871018953
+    400560: Group1871018954
+    400562: Group1871018955
+    400564: Group1871018956
+    400566: Group1871018957
+    400568: Group1871018958
+    400570: Group1871018959
+    400572: Group1871018960
+    400574: Group1871018961
+    400576: Group1871018962
+    400578: Group1871018963
+    400580: Group1871018964
+    400582: Group1871018965
+    400584: Group1871018966
+    400586: Group518
+    400588: Group519
+    400590: Group520
+    400592: Group521
+    400594: Group522
+    400596: Group_001
+    400598: Group_002
+    400600: Group_005
+    400602: Group_006
+    400604: Group_008
+    400606: Group_010
+    400608: Group_011
+    400610: Group_013
+    400612: Group_014
+    400614: Group_015
+    400616: Group_016
+    400618: Group_017
+    400620: Group_018
+    400622: Group_019
+    400624: Group_020
+    400626: Group_021
+    400628: Group_022
+    400630: Group_023
+    400632: Group_024
+    400634: Group_025
+    400636: Group_026
+    400638: Group_027
+    400640: Group_028
+    400642: Group_029
+    400644: Group_030
+    400646: Group_031
+    400648: Group_032
+    400650: Group_033
+    400652: Group_034
+    400654: Group_035
+    400656: Group_036
+    400658: Group_037
+    400660: Group_038
+    400662: Group_039
+    400664: Group_040
+    400666: Group_041
+    400668: Group_042
+    400670: Group_043
+    400672: Group_044
+    400674: Group_045
+    400676: Group_046
+    400678: Group_1768
+    400680: Group_1769
+    400682: Group_1770
+    400684: Group_1771
+    400686: Group_1772
+    400688: Group_490
+    400690: Group_491
+    400692: Group_492
+    400694: Group_493
+    400696: Group_495
+    400698: Group_600
+    400700: Group_601
+    400702: Group_602
+    400704: Group_603
+    400706: halogen131
+    400708: halogen139
+    400710: halogen140
+    400712: halogen141
+    400714: halogen142
+    400716: halogen143
+    400718: halogen144
+    400720: halogen145
+    400722: halogen_111
+    400724: halogen_119
+    400726: halogen_120
+    400728: halogen_121
+    400730: halogen_122
+    400732: halogen_123
+    400734: halogen_124
+    400736: halogen_125
+    400738: Layer0_001
+    400740: legs_
+    400742: legs_001
+    400744: obj_01
+    400746: obj_02
+    400748: obj_03
+    400750: obj_04
+    400752: obj_05
+    400754: obj_06
+    400756: objObject03
+    400758: objObject08
+    400760: objObject12
+    400762: objSphere700
+    400764: Seat Pad_001
+    400766: Seat Pad_002
+    400768: sit
+    400770: sit soft
+    400772: sit soft001
+    400774: sit001
+    400776: torch light012
+    400778: Torus118
+    400780: Torus130
+    400782: Torus131
+    400784: Torus132
+    400786: Torus133
+    400788: Torus134
+    400790: Torus135
+    400792: Torus136
+    400794: vaseDS3_01
+    400796: vm_v4_038_2
+    400798: vm_v4_038_3
+    400800: vm_v4_038_5
+    400802: vm_v4_038_6
+    400804: VRayPhysicalCamera002
+    400806: VRayPhysicalCamera002.Target
+    400808: VRayPhysicalCamera003
+    400810: VRayPhysicalCamera003.Target
+    400812: VRayPhysicalCamera01
+    400814: VRayPhysicalCamera01.Target
+    400816: VRayProxy_Object007
+    400818: VRayProxy_Object06
+    400820: VRaySun01
+    400822: VRaySun01.Target
+    400824: www.st-cg.com
+    2100000: 'Material #272243846'
+    2100002: steel smooth
+    2100004: 'Material #272243849'
+    2100006: 'Material #272243847'
+    2100008: 'Material #2097643244'
+    2100010: 'Material #272243850'
+    2100012: 'Material #272243851'
+    2100014: 'Material #2097643245'
+    2100016: 'Material #272243869'
+    2100018: leather-22
+    2100020: Brushed Gold Shiny Corragated
+    2100022: tree stump#1
+    2100024: tree stump
+    2100026: skp_front_default
+    2100028: 'Material #2097643246'
+    2100030: 'Material #2097643247'
+    2100032: 'Material #2097643269'
+    2100034: 'Material #2097643248'
+    2100036: 'Material #2097643249'
+    2100038: 'Material #2097643252'
+    2100040: 'Material #2097643253'
+    2100042: 'Material #2097643250'
+    2100044: 'Material #2097643251'
+    2100046: 'Material #272243857'
+    2100048: 'Material #2097643265'
+    2100050: 'Material #272243853'
+    2100052: 'Material #2097643266'
+    2100054: 'Material #2097643307'
+    2100056: 'Material #2097643268'
+    2100058: Metal_Seamed
+    2100060: 'Material #2097643318'
+    2100062: 'Material #2097643267'
+    2100064: Color_D08
+    2100066: Color_C25
+    2100068: 'Material #272243868'
+    2100070: 'Material #272243855'
+    2100072: 'Material #2097643254'
+    2100074: 'Material #2097643257'
+    2100076: 'Material #2097643255'
+    2100078: 'Material #2097643256'
+    2100080: 'Material #2097643258'
+    2100082: 'Material #2097643259'
+    2100084: 'Material #2097643260'
+    2100086: 'Material #2097643261'
+    2100088: 'Material #2097643262'
+    2100090: 'Material #2097643263'
+    2100092: 'Material #2097643264'
+    2100094: 'Material #2097643270'
+    2100096: 'Material #2097643272'
+    2100098: 'Material #2097643271'
+    2100100: 'Material #2097643273'
+    2100102: 'Material #2097643300'
+    2100104: 'Material #2097643274'
+    2100106: 'Material #2097643299'
+    2100108: 'Material #2097643303'
+    2100110: 'Material #2097643275'
+    2100112: 'Material #2097643276'
+    2100114: 'Material #2097643302'
+    2100116: 'Material #2097643277'
+    2100118: 'Material #2097643278'
+    2100120: 'Material #2097643301'
+    2100122: 'Material #2097643279'
+    2100124: 'Material #2097643280'
+    2100126: 'Material #2097643281'
+    2100128: 'Material #2097643282'
+    2100130: 'Material #2097643283'
+    2100132: 'Material #2097643284'
+    2100134: 'Material #2097643285'
+    2100136: 'Material #2097643286'
+    2100138: 'Material #2097643304'
+    2100140: No Name
+    2100142: Carpet_Diamond_Olive
+    2100144: Carpet_Berber_Pattern_Gray
+    2100146: 'Material #2097643290'
+    2100148: 'Material #2097643287'
+    2100150: 'Material #2097643288'
+    2100152: 'Material #2097643289'
+    2100154: 'Material #2097643291'
+    2100156: 'Material #2097643292'
+    2100158: 'Material #2097643293'
+    2100160: 'Material #2097643298'
+    2100162: 'Material #2097643294'
+    2100164: 'Material #2097643295'
+    2100166: 'Material #2097643296'
+    2100168: 'Material #2097643297'
+    2100170: 'Material #2097643308'
+    2100172: 'Material #2097643309'
+    2100174: 'Material #2097643310'
+    2100176: 'Material #2097643316'
+    2100178: 'Material #2097643315'
+    2100180: 'Material #2097643317'
+    2100182: 'Material #2097643311'
+    2100184: 'Material #2097643312'
+    2100186: 'Material #2097643313'
+    2100188: 'Material #2097643314'
+    2100190: 'Material #2097643320'
+    2100192: 'Material #272243866'
+    2100194: 'Material #2097643322'
+    2100196: 'Material #2097643323'
+    2100198: 'Material #2097643321'
+    2100200: Material1
+    2100202: 'Material #272243864'
+    2100204: 'Material #272243865'
+    2100206: 'Material #2097643325'
+    2100208: 'Material #2097643326'
+    2100210: 'Material #2097643324'
+    2100212: 'Material #2097643327'
+    2100214: 'Material #2097643329'
+    2100216: 'Material #2097643328'
+    2100218: 'Material #2097643330'
+    2100220: 'Material #2097643331'
+    2100222: 'Material #2097643333'
+    2100224: 'Material #2097643334'
+    2100226: 'Material #2097643332'
+    2100228: 'Material #2097643335'
+    2300000: 04 Design books 01
+    2300002: 04 Design books 02
+    2300004: 04 Design books 026
+    2300006: 04 Design books 03
+    2300008: 04 Design books 037
+    2300010: 04 Design books 038
+    2300012: 04 Design books 039
+    2300014: 04 Design books 04
+    2300016: 04 Design books 040
+    2300018: 04 Design books 041
+    2300020: 04 Design books 042
+    2300022: 04 Design books 043
+    2300024: 04 Design books 044
+    2300026: 04 Design books 045
+    2300028: 04 Design books 046
+    2300030: 04 Design books 047
+    2300032: 04 Design books 048
+    2300034: 04 Design books 049
+    2300036: 04 Design books 05
+    2300038: 04 Design books 050
+    2300040: 04 Design books 06
+    2300042: 04 Design books 07
+    2300044: 04 Design books 08
+    2300046: 04 Design books 09
+    2300048: 04 Design books 10
+    2300050: 04 Design books 11
+    2300052: 04 Design books 12
+    2300054: 04 Design books 13
+    2300056: 04 Design books 14
+    2300058: 20 Ikea Salong vase S001
+    2300060: 21 Ceramic vase 1
+    2300062: 21 Ceramic vase 2
+    2300064: 21 Ceramic vase 3
+    2300066: 21 Ceramic vase 4
+    2300068: 21 Ceramic vase 5
+    2300070: 21 Ceramic vase 6
+    2300072: 23 Open book 01 Interior
+    2300074: 31 Pillar metal candleholder 1
+    2300076: 31 Pillar metal candleholder 2
+    2300078: 31 Pillar metal candleholder 3
+    2300080: 31 Pillar metal candleholder 4
+    2300082: 31 Pillar metal candleholder 5
+    2300084: 3d66modelV13-19-029
+    2300086: 3d66modelV13-19-28
+    2300088: AI29_05_AM107_005_glass002
+    2300090: AI29_05_AM107_005_glass003
+    2300092: AI29_05_AM107_005_metal002
+    2300094: AI29_05_AM107_005_metal003
+    2300096: AI29_05_Cylinder035
+    2300098: AI29_05_Cylinder036
+    2300100: AI29_05_Cylinder037
+    2300102: AI29_05_Cylinder038
+    2300104: AI29_05_Sphere007
+    2300106: AI29_05_Sphere008
+    2300108: AM108_set_10_01
+    2300110: AM108_set_10_02
+    2300112: AM108_set_10_03
+    2300114: AM108_set_10_04
+    2300116: AM108_set_10_05
+    2300118: AM108_set_10_06
+    2300120: AM108_set_10_07
+    2300122: AM108_set_10_08
+    2300124: AM108_set_10_09
+    2300126: AM108_set_10_10
+    2300128: AM108_set_10_11
+    2300130: AM108_set_10_12
+    2300132: AM108_set_10_13
+    2300134: AM108_set_10_14
+    2300136: Arch41_043_obj_1
+    2300138: Arch41_043_obj_3
+    2300140: Arch41_043_obj_4
+    2300142: Arch41_043_obj_5
+    2300144: Arch41_043_obj_6
+    2300146: Arch41_043_obj_7
+    2300148: Arch41_049_obj_002
+    2300150: Arch41_049_obj_004
+    2300152: Arch41_049_obj_005
+    2300154: Arch41_049_obj_1
+    2300156: Arch41_049_obj_3
+    2300158: Arch41_058_obj_1
+    2300160: Arch41_058_obj_3
+    2300162: Arch41_058_obj_4
+    2300164: Arch41_060_obj_005
+    2300166: Arch41_060_obj_006
+    2300168: Arch41_060_obj_007
+    2300170: Arch41_060_obj_1
+    2300172: Arch41_060_obj_3
+    2300174: Arch41_060_obj_4
+    2300176: Arch60_018_obj00
+    2300178: Arch60_018_obj003
+    2300180: Arch60_018_obj004
+    2300182: Arch60_018_obj005
+    2300184: Arch60_018_obj006
+    2300186: Arch60_018_obj007
+    2300188: Arch60_018_obj008
+    2300190: Arch60_018_obj01
+    2300192: Arch60_018_obj02
+    2300194: Archmodels_45_009_002
+    2300196: Archmodels_45_009_003
+    2300198: Archmodels_45_009_1
+    2300200: Box01-FACE_001
+    2300202: Box02-FAC0#1_001
+    2300204: Box02-FACE#1_001
+    2300206: Box03-FAC0#1_001
+    2300208: Box03-FACE#1_001
+    2300210: Box04-FAC0#1_001
+    2300212: Box04-FACE#1_001
+    2300214: Box07-FACE#1_001
+    2300216: Box08-FACE#1_001
+    2300218: Box09-FAC0#1_001
+    2300220: Box09-FACE#1_001
+    2300222: Box11-FACE_001
+    2300224: Box12-FACE#1_001
+    2300226: Box13-FACE#1_001
+    2300228: Box14-FACE#1_001
+    2300230: Box15-FACE#1_001
+    2300232: carpet14-002
+    2300234: Component#12_001
+    2300236: Component#12_003
+    2300238: Component#12_005
+    2300240: Component#12_007
+    2300242: Component#12_009
+    2300244: Component#12_011
+    2300246: Component#12_013
+    2300248: Component#12_015
+    2300250: Component#12_017
+    2300252: Component#12_019
+    2300254: Component#12_021
+    2300256: Component#12_023
+    2300258: Component#12_025
+    2300260: Component#13_001
+    2300262: Component#21_001
+    2300264: Component#23_001
+    2300266: Component#23_002
+    2300268: Component#23_003
+    2300270: Component#25_001
+    2300272: Component#37_001
+    2300274: Component#39_001
+    2300276: Component#44_001
+    2300278: Component#49_001
+    2300280: Component#54_001
+    2300282: Component#54_002
+    2300284: Component#54_003
+    2300286: Component#54_004
+    2300288: Component#54_005
+    2300290: Component#54_006
+    2300292: Component#54_007
+    2300294: Component#54_008
+    2300296: Component#54_009
+    2300298: Component#54_010
+    2300300: Component#54_011
+    2300302: Component#54_012
+    2300304: Component#54_013
+    2300306: Component#54_014
+    2300308: Component#79_001
+    2300310: Component#79_002
+    2300312: Component#79_003
+    2300314: Component#79_004
+    2300316: Component#79_005
+    2300318: Component#79_006
+    2300320: Component#79_007
+    2300322: Component#79_008
+    2300324: Component#79_009
+    2300326: Component#79_010
+    2300328: Component#7_001
+    2300330: Component#80_001
+    2300332: Component#80_002
+    2300334: Component#80_003
+    2300336: Component#80_004
+    2300338: Component#80_005
+    2300340: Component#80_006
+    2300342: Component#80_007
+    2300344: Component#80_008
+    2300346: Component#80_009
+    2300348: Component#80_010
+    2300350: Component#81_001
+    2300352: Component#81_002
+    2300354: Component#81_003
+    2300356: Component#81_004
+    2300358: Component#81_005
+    2300360: Component#81_006
+    2300362: Component#81_007
+    2300364: Component#81_008
+    2300366: Component#81_009
+    2300368: Component#81_010
+    2300370: Component#81_011
+    2300372: Component#82_001
+    2300374: Component#82_002
+    2300376: Component#82_003
+    2300378: Component#82_004
+    2300380: Component#82_005
+    2300382: Component#82_006
+    2300384: Component#82_007
+    2300386: Component#82_008
+    2300388: Component#82_009
+    2300390: Component#82_010
+    2300392: Component#82_011
+    2300394: Component#83_001
+    2300396: Component#83_002
+    2300398: Component#83_003
+    2300400: Component#83_004
+    2300402: Component#83_005
+    2300404: Component#83_006
+    2300406: Component#83_007
+    2300408: Component#83_008
+    2300410: Component#83_009
+    2300412: Component#83_010
+    2300414: Component#8_001
+    2300416: Cylinder03#1_001
+    2300418: Cylinder05#1_001
+    2300420: Cylinder10#1_001
+    2300422: Cylinder11#1_001
+    2300424: Cylinder12#1_001
+    2300426: Cylinder13#1_001
+    2300428: Cylinder15#1_001
+    2300430: Cylinder17#1_001
+    2300432: Cylinder19#1_001
+    2300434: Cylinder21#1_001
+    2300436: Cylinder420
+    2300438: Cylinder428
+    2300440: Cylinder429
+    2300442: Cylinder430
+    2300444: Cylinder431
+    2300446: Cylinder432
+    2300448: Cylinder433
+    2300450: Cylinder434
+    2300452: dihtung-F0#1_001
+    2300454: dihtung-FA#1_001
+    2300456: dihtung02-#1_001
+    2300458: glass-FAC0#1_001
+    2300460: glass-FACE#1_001
+    2300462: glass02-FA#1_001
+    2300464: Group_001
+    2300466: Group_002
+    2300468: Group_005
+    2300470: Group_006
+    2300472: Group_008
+    2300474: Group_010
+    2300476: Group_011
+    2300478: Group_013
+    2300480: Group_014
+    2300482: Group_015
+    2300484: Group_016
+    2300486: Group_018
+    2300488: Group_019
+    2300490: Group_020
+    2300492: Group_021
+    2300494: Group_022
+    2300496: Group_023
+    2300498: Group_024
+    2300500: Group_025
+    2300502: Group_026
+    2300504: Group_027
+    2300506: Group_028
+    2300508: Group_029
+    2300510: Group_030
+    2300512: Group_031
+    2300514: Group_032
+    2300516: Group_033
+    2300518: Group_034
+    2300520: Group_035
+    2300522: Group_037
+    2300524: Group_039
+    2300526: Group_040
+    2300528: Group_041
+    2300530: Group_042
+    2300532: Group_043
+    2300534: Group_044
+    2300536: Group_045
+    2300538: Group_046
+    2300540: Group_1768
+    2300542: Group_1769
+    2300544: Group_1770
+    2300546: Group_1771
+    2300548: Group_490
+    2300550: Group_492
+    2300552: Group_493
+    2300554: Group_495
+    2300556: Group_600
+    2300558: Group_601
+    2300560: Group_602
+    2300562: Group_603
+    2300564: Layer0_001
+    2300566: legs_
+    2300568: legs_001
+    2300570: obj_01
+    2300572: obj_02
+    2300574: obj_03
+    2300576: obj_04
+    2300578: obj_05
+    2300580: obj_06
+    2300582: objObject03
+    2300584: objObject08
+    2300586: objObject12
+    2300588: objSphere700
+    2300590: Seat Pad_001
+    2300592: Seat Pad_002
+    2300594: sit
+    2300596: sit soft
+    2300598: sit soft001
+    2300600: sit001
+    2300602: Torus118
+    2300604: Torus130
+    2300606: Torus131
+    2300608: Torus132
+    2300610: Torus133
+    2300612: Torus134
+    2300614: Torus135
+    2300616: Torus136
+    2300618: vaseDS3_01
+    2300620: vm_v4_038_2
+    2300622: vm_v4_038_3
+    2300624: vm_v4_038_5
+    2300626: vm_v4_038_6
+    3300000: 04 Design books 01
+    3300002: 04 Design books 02
+    3300004: 04 Design books 026
+    3300006: 04 Design books 03
+    3300008: 04 Design books 037
+    3300010: 04 Design books 038
+    3300012: 04 Design books 039
+    3300014: 04 Design books 04
+    3300016: 04 Design books 040
+    3300018: 04 Design books 041
+    3300020: 04 Design books 042
+    3300022: 04 Design books 043
+    3300024: 04 Design books 044
+    3300026: 04 Design books 045
+    3300028: 04 Design books 046
+    3300030: 04 Design books 047
+    3300032: 04 Design books 048
+    3300034: 04 Design books 049
+    3300036: 04 Design books 05
+    3300038: 04 Design books 050
+    3300040: 04 Design books 06
+    3300042: 04 Design books 07
+    3300044: 04 Design books 08
+    3300046: 04 Design books 09
+    3300048: 04 Design books 10
+    3300050: 04 Design books 11
+    3300052: 04 Design books 12
+    3300054: 04 Design books 13
+    3300056: 04 Design books 14
+    3300058: 20 Ikea Salong vase S001
+    3300060: 21 Ceramic vase 1
+    3300062: 21 Ceramic vase 2
+    3300064: 21 Ceramic vase 3
+    3300066: 21 Ceramic vase 4
+    3300068: 21 Ceramic vase 5
+    3300070: 21 Ceramic vase 6
+    3300072: 23 Open book 01 Interior
+    3300074: 31 Pillar metal candleholder 1
+    3300076: 31 Pillar metal candleholder 2
+    3300078: 31 Pillar metal candleholder 3
+    3300080: 31 Pillar metal candleholder 4
+    3300082: 31 Pillar metal candleholder 5
+    3300084: 3d66modelV13-19-029
+    3300086: 3d66modelV13-19-28
+    3300088: AI29_05_AM107_005_glass002
+    3300090: AI29_05_AM107_005_glass003
+    3300092: AI29_05_AM107_005_metal002
+    3300094: AI29_05_AM107_005_metal003
+    3300096: AI29_05_Cylinder035
+    3300098: AI29_05_Cylinder036
+    3300100: AI29_05_Cylinder037
+    3300102: AI29_05_Cylinder038
+    3300104: AI29_05_Sphere007
+    3300106: AI29_05_Sphere008
+    3300108: AM108_set_10_01
+    3300110: AM108_set_10_02
+    3300112: AM108_set_10_03
+    3300114: AM108_set_10_04
+    3300116: AM108_set_10_05
+    3300118: AM108_set_10_06
+    3300120: AM108_set_10_07
+    3300122: AM108_set_10_08
+    3300124: AM108_set_10_09
+    3300126: AM108_set_10_10
+    3300128: AM108_set_10_11
+    3300130: AM108_set_10_12
+    3300132: AM108_set_10_13
+    3300134: AM108_set_10_14
+    3300136: Arch41_043_obj_1
+    3300138: Arch41_043_obj_3
+    3300140: Arch41_043_obj_4
+    3300142: Arch41_043_obj_5
+    3300144: Arch41_043_obj_6
+    3300146: Arch41_043_obj_7
+    3300148: Arch41_049_obj_002
+    3300150: Arch41_049_obj_004
+    3300152: Arch41_049_obj_005
+    3300154: Arch41_049_obj_1
+    3300156: Arch41_049_obj_3
+    3300158: Arch41_058_obj_1
+    3300160: Arch41_058_obj_3
+    3300162: Arch41_058_obj_4
+    3300164: Arch41_060_obj_005
+    3300166: Arch41_060_obj_006
+    3300168: Arch41_060_obj_007
+    3300170: Arch41_060_obj_1
+    3300172: Arch41_060_obj_3
+    3300174: Arch41_060_obj_4
+    3300176: Arch60_018_obj00
+    3300178: Arch60_018_obj003
+    3300180: Arch60_018_obj004
+    3300182: Arch60_018_obj005
+    3300184: Arch60_018_obj006
+    3300186: Arch60_018_obj007
+    3300188: Arch60_018_obj008
+    3300190: Arch60_018_obj01
+    3300192: Arch60_018_obj02
+    3300194: Archmodels_45_009_002
+    3300196: Archmodels_45_009_003
+    3300198: Archmodels_45_009_1
+    3300200: Box01-FACE_001
+    3300202: Box02-FAC0#1_001
+    3300204: Box02-FACE#1_001
+    3300206: Box03-FAC0#1_001
+    3300208: Box03-FACE#1_001
+    3300210: Box04-FAC0#1_001
+    3300212: Box04-FACE#1_001
+    3300214: Box07-FACE#1_001
+    3300216: Box08-FACE#1_001
+    3300218: Box09-FAC0#1_001
+    3300220: Box09-FACE#1_001
+    3300222: Box11-FACE_001
+    3300224: Box12-FACE#1_001
+    3300226: Box13-FACE#1_001
+    3300228: Box14-FACE#1_001
+    3300230: Box15-FACE#1_001
+    3300232: carpet14-002
+    3300234: Component#12_001
+    3300236: Component#12_003
+    3300238: Component#12_005
+    3300240: Component#12_007
+    3300242: Component#12_009
+    3300244: Component#12_011
+    3300246: Component#12_013
+    3300248: Component#12_015
+    3300250: Component#12_017
+    3300252: Component#12_019
+    3300254: Component#12_021
+    3300256: Component#12_023
+    3300258: Component#12_025
+    3300260: Component#13_001
+    3300262: Component#21_001
+    3300264: Component#23_001
+    3300266: Component#23_002
+    3300268: Component#23_003
+    3300270: Component#25_001
+    3300272: Component#37_001
+    3300274: Component#39_001
+    3300276: Component#44_001
+    3300278: Component#49_001
+    3300280: Component#54_001
+    3300282: Component#54_002
+    3300284: Component#54_003
+    3300286: Component#54_004
+    3300288: Component#54_005
+    3300290: Component#54_006
+    3300292: Component#54_007
+    3300294: Component#54_008
+    3300296: Component#54_009
+    3300298: Component#54_010
+    3300300: Component#54_011
+    3300302: Component#54_012
+    3300304: Component#54_013
+    3300306: Component#54_014
+    3300308: Component#79_001
+    3300310: Component#79_002
+    3300312: Component#79_003
+    3300314: Component#79_004
+    3300316: Component#79_005
+    3300318: Component#79_006
+    3300320: Component#79_007
+    3300322: Component#79_008
+    3300324: Component#79_009
+    3300326: Component#79_010
+    3300328: Component#7_001
+    3300330: Component#80_001
+    3300332: Component#80_002
+    3300334: Component#80_003
+    3300336: Component#80_004
+    3300338: Component#80_005
+    3300340: Component#80_006
+    3300342: Component#80_007
+    3300344: Component#80_008
+    3300346: Component#80_009
+    3300348: Component#80_010
+    3300350: Component#81_001
+    3300352: Component#81_002
+    3300354: Component#81_003
+    3300356: Component#81_004
+    3300358: Component#81_005
+    3300360: Component#81_006
+    3300362: Component#81_007
+    3300364: Component#81_008
+    3300366: Component#81_009
+    3300368: Component#81_010
+    3300370: Component#81_011
+    3300372: Component#82_001
+    3300374: Component#82_002
+    3300376: Component#82_003
+    3300378: Component#82_004
+    3300380: Component#82_005
+    3300382: Component#82_006
+    3300384: Component#82_007
+    3300386: Component#82_008
+    3300388: Component#82_009
+    3300390: Component#82_010
+    3300392: Component#82_011
+    3300394: Component#83_001
+    3300396: Component#83_002
+    3300398: Component#83_003
+    3300400: Component#83_004
+    3300402: Component#83_005
+    3300404: Component#83_006
+    3300406: Component#83_007
+    3300408: Component#83_008
+    3300410: Component#83_009
+    3300412: Component#83_010
+    3300414: Component#8_001
+    3300416: Cylinder03#1_001
+    3300418: Cylinder05#1_001
+    3300420: Cylinder10#1_001
+    3300422: Cylinder11#1_001
+    3300424: Cylinder12#1_001
+    3300426: Cylinder13#1_001
+    3300428: Cylinder15#1_001
+    3300430: Cylinder17#1_001
+    3300432: Cylinder19#1_001
+    3300434: Cylinder21#1_001
+    3300436: Cylinder420
+    3300438: Cylinder428
+    3300440: Cylinder429
+    3300442: Cylinder430
+    3300444: Cylinder431
+    3300446: Cylinder432
+    3300448: Cylinder433
+    3300450: Cylinder434
+    3300452: dihtung-F0#1_001
+    3300454: dihtung-FA#1_001
+    3300456: dihtung02-#1_001
+    3300458: glass-FAC0#1_001
+    3300460: glass-FACE#1_001
+    3300462: glass02-FA#1_001
+    3300464: Group_001
+    3300466: Group_002
+    3300468: Group_005
+    3300470: Group_006
+    3300472: Group_008
+    3300474: Group_010
+    3300476: Group_011
+    3300478: Group_013
+    3300480: Group_014
+    3300482: Group_015
+    3300484: Group_016
+    3300486: Group_018
+    3300488: Group_019
+    3300490: Group_020
+    3300492: Group_021
+    3300494: Group_022
+    3300496: Group_023
+    3300498: Group_024
+    3300500: Group_025
+    3300502: Group_026
+    3300504: Group_027
+    3300506: Group_028
+    3300508: Group_029
+    3300510: Group_030
+    3300512: Group_031
+    3300514: Group_032
+    3300516: Group_033
+    3300518: Group_034
+    3300520: Group_035
+    3300522: Group_037
+    3300524: Group_039
+    3300526: Group_040
+    3300528: Group_041
+    3300530: Group_042
+    3300532: Group_043
+    3300534: Group_044
+    3300536: Group_045
+    3300538: Group_046
+    3300540: Group_1768
+    3300542: Group_1769
+    3300544: Group_1770
+    3300546: Group_1771
+    3300548: Group_490
+    3300550: Group_492
+    3300552: Group_493
+    3300554: Group_495
+    3300556: Group_600
+    3300558: Group_601
+    3300560: Group_602
+    3300562: Group_603
+    3300564: Layer0_001
+    3300566: legs_
+    3300568: legs_001
+    3300570: obj_01
+    3300572: obj_02
+    3300574: obj_03
+    3300576: obj_04
+    3300578: obj_05
+    3300580: obj_06
+    3300582: objObject03
+    3300584: objObject08
+    3300586: objObject12
+    3300588: objSphere700
+    3300590: Seat Pad_001
+    3300592: Seat Pad_002
+    3300594: sit
+    3300596: sit soft
+    3300598: sit soft001
+    3300600: sit001
+    3300602: Torus118
+    3300604: Torus130
+    3300606: Torus131
+    3300608: Torus132
+    3300610: Torus133
+    3300612: Torus134
+    3300614: Torus135
+    3300616: Torus136
+    3300618: vaseDS3_01
+    3300620: vm_v4_038_2
+    3300622: vm_v4_038_3
+    3300624: vm_v4_038_5
+    3300626: vm_v4_038_6
+    4300000: Group_014
+    4300002: Component#37_001
+    4300004: Group_016
+    4300006: Group_018
+    4300008: Group_019
+    4300010: Group_020
+    4300012: Group_021
+    4300014: Group_022
+    4300016: Group_010
+    4300018: Group_008
+    4300020: Group_013
+    4300022: Group_011
+    4300024: Group_002
+    4300026: Group_005
+    4300028: Group_006
+    4300030: Group_001
+    4300032: glass-FAC0#1_001
+    4300034: glass02-FA#1_001
+    4300036: glass-FACE#1_001
+    4300038: Box09-FACE#1_001
+    4300040: Box08-FACE#1_001
+    4300042: Box07-FACE#1_001
+    4300044: Box04-FACE#1_001
+    4300046: dihtung02-#1_001
+    4300048: Box09-FAC0#1_001
+    4300050: Box03-FAC0#1_001
+    4300052: Box03-FACE#1_001
+    4300054: Cylinder12#1_001
+    4300056: Cylinder11#1_001
+    4300058: Cylinder10#1_001
+    4300060: dihtung-F0#1_001
+    4300062: dihtung-FA#1_001
+    4300064: Box04-FAC0#1_001
+    4300066: Box01-FACE_001
+    4300068: Box11-FACE_001
+    4300070: Cylinder17#1_001
+    4300072: Cylinder21#1_001
+    4300074: Cylinder19#1_001
+    4300076: Cylinder15#1_001
+    4300078: Cylinder13#1_001
+    4300080: Box12-FACE#1_001
+    4300082: Box14-FACE#1_001
+    4300084: Cylinder05#1_001
+    4300086: Cylinder03#1_001
+    4300088: Box02-FAC0#1_001
+    4300090: Box02-FACE#1_001
+    4300092: Box15-FACE#1_001
+    4300094: Box13-FACE#1_001
+    4300096: Component#39_001
+    4300098: Component#44_001
+    4300100: Component#13_001
+    4300102: Component#23_001
+    4300104: Component#49_001
+    4300106: Component#54_001
+    4300108: Component#82_009
+    4300110: Component#80_006
+    4300112: Component#81_010
+    4300114: Component#8_001
+    4300116: Component#7_001
+    4300118: Component#54_002
+    4300120: Component#54_003
+    4300122: Component#54_004
+    4300124: Component#54_008
+    4300126: Component#54_012
+    4300128: Component#54_014
+    4300130: Component#82_001
+    4300132: Component#79_001
+    4300134: Component#83_001
+    4300136: Component#82_002
+    4300138: Component#83_002
+    4300140: Component#83_003
+    4300142: Component#81_001
+    4300144: Component#82_003
+    4300146: Component#82_004
+    4300148: Component#80_001
+    4300150: Component#79_002
+    4300152: Component#79_003
+    4300154: Component#80_002
+    4300156: Component#81_002
+    4300158: Component#80_003
+    4300160: Component#83_004
+    4300162: Component#82_005
+    4300164: Component#82_006
+    4300166: Component#81_003
+    4300168: Component#81_004
+    4300170: Component#82_007
+    4300172: Component#82_008
+    4300174: Component#80_004
+    4300176: Component#81_005
+    4300178: Component#81_006
+    4300180: Component#81_007
+    4300182: Component#80_005
+    4300184: Component#82_010
+    4300186: Component#81_008
+    4300188: Component#83_005
+    4300190: Component#80_007
+    4300192: Component#79_004
+    4300194: Component#80_008
+    4300196: Component#80_009
+    4300198: Component#83_006
+    4300200: Component#81_009
+    4300202: Component#83_007
+    4300204: Component#83_008
+    4300206: Component#79_005
+    4300208: Component#79_006
+    4300210: Component#82_011
+    4300212: Component#79_007
+    4300214: Component#79_008
+    4300216: Component#79_009
+    4300218: Component#79_010
+    4300220: Component#83_009
+    4300222: Component#83_010
+    4300224: Component#81_011
+    4300226: Component#80_010
+    4300228: Component#23_002
+    4300230: Component#23_003
+    4300232: Group_015
+    4300234: Component#54_005
+    4300236: Component#54_006
+    4300238: Component#54_007
+    4300240: Component#54_009
+    4300242: Component#54_010
+    4300244: Component#54_011
+    4300246: Component#54_013
+    4300248: Component#21_001
+    4300250: Component#25_001
+    4300252: Component#12_013
+    4300254: Component#12_001
+    4300256: Component#12_003
+    4300258: Component#12_005
+    4300260: Component#12_007
+    4300262: Component#12_009
+    4300264: Component#12_011
+    4300266: Component#12_015
+    4300268: Component#12_017
+    4300270: Component#12_019
+    4300272: Component#12_021
+    4300274: Component#12_023
+    4300276: Component#12_025
+    4300278: Seat Pad_001
+    4300280: Group_023
+    4300282: Group_044
+    4300284: objObject08
+    4300286: objObject12
+    4300288: objObject03
+    4300290: objSphere700
+    4300292: carpet14-002
+    4300294: vm_v4_038_6
+    4300296: vm_v4_038_2
+    4300298: vm_v4_038_3
+    4300300: vm_v4_038_5
+    4300302: Cylinder430
+    4300304: Torus132
+    4300306: Cylinder432
+    4300308: Torus133
+    4300310: Cylinder433
+    4300312: Torus134
+    4300314: Cylinder434
+    4300316: Torus135
+    4300318: Cylinder429
+    4300320: Torus131
+    4300322: Cylinder431
+    4300324: Torus136
+    4300326: Cylinder420
+    4300328: Torus118
+    4300330: Cylinder428
+    4300332: Torus130
+    4300334: Group_041
+    4300336: Group_040
+    4300338: obj_06
+    4300340: obj_01
+    4300342: obj_02
+    4300344: obj_03
+    4300346: obj_04
+    4300348: obj_05
+    4300350: Group_490
+    4300352: Group_043
+    4300354: Group_042
+    4300356: Group_029
+    4300358: Group_028
+    4300360: Group_027
+    4300362: Group_026
+    4300364: Group_492
+    4300366: Group_493
+    4300368: Group_033
+    4300370: Group_034
+    4300372: Group_032
+    4300374: Group_025
+    4300376: Archmodels_45_009_003
+    4300378: Archmodels_45_009_002
+    4300380: Archmodels_45_009_1
+    4300382: Group_046
+    4300384: Group_045
+    4300386: Group_031
+    4300388: Group_030
+    4300390: 23 Open book 01 Interior
+    4300392: AM108_set_10_03
+    4300394: AM108_set_10_04
+    4300396: AM108_set_10_10
+    4300398: AM108_set_10_05
+    4300400: AM108_set_10_09
+    4300402: AM108_set_10_08
+    4300404: AM108_set_10_06
+    4300406: AM108_set_10_07
+    4300408: AM108_set_10_02
+    4300410: AM108_set_10_01
+    4300412: AM108_set_10_12
+    4300414: AM108_set_10_13
+    4300416: AM108_set_10_14
+    4300418: AM108_set_10_11
+    4300420: Seat Pad_002
+    4300422: Group_495
+    4300424: 20 Ikea Salong vase S001
+    4300426: 04 Design books 01
+    4300428: 04 Design books 02
+    4300430: 04 Design books 03
+    4300432: 04 Design books 04
+    4300434: 04 Design books 05
+    4300436: 04 Design books 06
+    4300438: 04 Design books 07
+    4300440: 04 Design books 08
+    4300442: 04 Design books 09
+    4300444: 04 Design books 10
+    4300446: 04 Design books 11
+    4300448: 04 Design books 12
+    4300450: 04 Design books 13
+    4300452: 04 Design books 14
+    4300454: Arch41_049_obj_1
+    4300456: vaseDS3_01
+    4300458: Group_600
+    4300460: Group_601
+    4300462: Group_602
+    4300464: Group_603
+    4300466: 04 Design books 026
+    4300468: 04 Design books 037
+    4300470: 04 Design books 038
+    4300472: 04 Design books 039
+    4300474: 04 Design books 040
+    4300476: 04 Design books 041
+    4300478: 04 Design books 042
+    4300480: 04 Design books 043
+    4300482: 04 Design books 044
+    4300484: 04 Design books 045
+    4300486: 04 Design books 046
+    4300488: 04 Design books 047
+    4300490: 04 Design books 048
+    4300492: 04 Design books 049
+    4300494: 04 Design books 050
+    4300496: Group_1768
+    4300498: 21 Ceramic vase 1
+    4300500: 21 Ceramic vase 5
+    4300502: 21 Ceramic vase 6
+    4300504: 21 Ceramic vase 3
+    4300506: 21 Ceramic vase 4
+    4300508: 21 Ceramic vase 2
+    4300510: 31 Pillar metal candleholder 2
+    4300512: 31 Pillar metal candleholder 4
+    4300514: 31 Pillar metal candleholder 5
+    4300516: 31 Pillar metal candleholder 1
+    4300518: 31 Pillar metal candleholder 3
+    4300520: 3d66modelV13-19-28
+    4300522: legs_
+    4300524: sit soft
+    4300526: sit
+    4300528: 3d66modelV13-19-029
+    4300530: sit soft001
+    4300532: sit001
+    4300534: legs_001
+    4300536: Arch41_058_obj_3
+    4300538: Arch41_058_obj_4
+    4300540: Arch41_058_obj_1
+    4300542: Group_039
+    4300544: Group_037
+    4300546: Arch41_049_obj_3
+    4300548: Arch41_049_obj_002
+    4300550: Group_035
+    4300552: Arch41_060_obj_3
+    4300554: Arch41_060_obj_4
+    4300556: Arch41_060_obj_1
+    4300558: Arch41_049_obj_004
+    4300560: Arch41_049_obj_005
+    4300562: Group_1769
+    4300564: Arch41_060_obj_005
+    4300566: Arch41_060_obj_006
+    4300568: Arch41_060_obj_007
+    4300570: Group_1770
+    4300572: Group_024
+    4300574: Arch41_043_obj_7
+    4300576: Arch41_043_obj_6
+    4300578: Arch41_043_obj_5
+    4300580: Arch41_043_obj_1
+    4300582: Arch41_043_obj_4
+    4300584: Arch41_043_obj_3
+    4300586: Arch60_018_obj00
+    4300588: Arch60_018_obj01
+    4300590: Arch60_018_obj02
+    4300592: Arch60_018_obj003
+    4300594: Arch60_018_obj004
+    4300596: Arch60_018_obj005
+    4300598: Arch60_018_obj006
+    4300600: Arch60_018_obj007
+    4300602: Arch60_018_obj008
+    4300604: AI29_05_Cylinder035
+    4300606: AI29_05_Cylinder036
+    4300608: AI29_05_AM107_005_glass002
+    4300610: AI29_05_AM107_005_metal002
+    4300612: AI29_05_Sphere007
+    4300614: AI29_05_Cylinder037
+    4300616: AI29_05_Cylinder038
+    4300618: AI29_05_AM107_005_glass003
+    4300620: AI29_05_AM107_005_metal003
+    4300622: AI29_05_Sphere008
+    4300624: Layer0_001
+    4300626: Group_1771
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
