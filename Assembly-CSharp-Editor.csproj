@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EF66F5CE-F93A-72BC-2AEB-472114BE1C5F}</ProjectGuid>
+    <ProjectGuid>{7E3881A9-D818-56D6-7A16-B360F5535D02}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -60,7 +60,7 @@
      <Compile Include="Assets\SteamVR\Editor\SteamVR_SkyboxEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/MTA18736/CLPB_AVOIDANCE/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/MTA18736/CLBP_AVOIDANCE/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -246,7 +246,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>E:/MTA18736/CLPB_AVOIDANCE/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/MTA18736/CLBP_AVOIDANCE/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -371,7 +371,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{F4839758-6EE6-BBC3-6B6A-A38174923EC0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{5B546473-7305-6E0D-3086-17C3D6E795CF}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

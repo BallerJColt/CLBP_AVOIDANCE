@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F4839758-6EE6-BBC3-6B6A-A38174923EC0}</ProjectGuid>
+    <ProjectGuid>{5B546473-7305-6E0D-3086-17C3D6E795CF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,7 +53,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CalculateBackAngle.cs" />
+     <Compile Include="Assets\Scripts\CameraScaling.cs" />
+     <Compile Include="Assets\Scripts\ItemSpawner.cs" />
+     <Compile Include="Assets\Scripts\ItemToPlace.cs" />
      <Compile Include="Assets\Scripts\LockBoxPos.cs" />
+     <Compile Include="Assets\Scripts\ScaledCamera.cs" />
      <Compile Include="Assets\Scripts\StereoTest.cs" />
      <Compile Include="Assets\Scripts\tintImageEffectScript.cs" />
      <Compile Include="Assets\Scripts\WorldScaling.cs" />
@@ -173,7 +178,7 @@
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/MTA18736/CLPB_AVOIDANCE/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/MTA18736/CLBP_AVOIDANCE/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -356,7 +361,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>E:/MTA18736/CLPB_AVOIDANCE/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/MTA18736/CLBP_AVOIDANCE/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
