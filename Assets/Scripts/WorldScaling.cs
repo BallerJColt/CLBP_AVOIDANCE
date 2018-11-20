@@ -9,14 +9,12 @@ public class WorldScaling : MonoBehaviour
 {
     public Transform HMD;
     public float yRotation;
-    public float percievedAngle;
     [Range(-10, 10)]
     public int multiplicationSteps;
     public float rotationMultiplier;
     public float scaledRotation;
     public bool scalingEnabled;
     Vector3 HMDtoOrigin;
-
     public float[] angleBuffer;
     private int bufferIndex;
     private int bufferSize;
@@ -65,10 +63,7 @@ public class WorldScaling : MonoBehaviour
         {
             transform.position = Vector3.zero;
             transform.rotation = Quaternion.identity;
-            scaledRotation = 0;
         }
-
-        percievedAngle = yRotation - scaledRotation;
     }
 
     void ScaleRotation(float trackedAngle, float multiplier, Axis axis)
