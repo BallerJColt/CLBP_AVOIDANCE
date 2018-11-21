@@ -7,7 +7,7 @@ public class CalculateBackAngle : MonoBehaviour {
 	public Transform hipTracker;
 	public Transform backTracker;
 	public float backRotationAngle;
-	public Vector3 asf;
+	public Vector3 rotationDifferenceEuler;
 
 	// Use this for initialization
 	void Start () {
@@ -19,6 +19,6 @@ public class CalculateBackAngle : MonoBehaviour {
 		Quaternion hipRotQ = hipTracker.localRotation;
 		Quaternion backRotQ = backTracker.localRotation;
 		Quaternion rotationDifference = backRotQ * Quaternion.Inverse(hipRotQ);
-		asf = rotationDifference.eulerAngles;
+		rotationDifferenceEuler = rotationDifference.eulerAngles;
 	}
 }
